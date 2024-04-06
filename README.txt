@@ -13,4 +13,4 @@ First, you have the Members class which stores basic information about each memb
 Training Sessions are also linked to the Trainer class and the code ensures there are no time conflicts. Group Classes are linked to Trainers and Rooms, then we use Class Registrations to know which members are in the class. The Equipment class also exists, but isn’t linked to anything else in the database.
 
 
-YouTube Link: 
+YouTube Link: https://youtu.be/U7RyJ1jICm0
