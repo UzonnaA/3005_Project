@@ -10,4 +10,5 @@ This is a Java-based backend system for managing a gym’s core operations, incl
 
 👨‍💻 I built this project as part of a university assignment, with the goal of exploring Java + SQL integration in a clean and testable way. While it’s simple, it highlights core backend concepts and relational thinking that can be applied to real applications.
 
-📺 [Project Demo](https://youtu.be/U7RyJ1jICm0)
+📺 [Project Demo](https://youtu.be/U7RyJ1jICm0)  
+(🎥 While the demo was made for marking purposes, it still offers a good look at how the app functions behind the scenes.)
