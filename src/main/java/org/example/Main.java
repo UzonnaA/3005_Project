@@ -23,6 +23,7 @@ public class Main {
     }
 
     private static void connectToDatabase() {
+        // You would never do this on production, but this was a school project
         String url = "jdbc:postgresql://localhost:5432/Project3005";
         String user = "postgres";
         String password = "uzonna";
